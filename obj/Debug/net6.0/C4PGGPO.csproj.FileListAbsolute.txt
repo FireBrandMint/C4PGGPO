@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\obj\Debug\net6.0\C4PGGPO.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\obj\Debug\net6.0\C4PGGPO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\obj\Debug\net6.0\C4PGGPO.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\obj\Debug\net6.0\C4PGGPO.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\obj\Debug\net6.0\C4PGGPO.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\bin\Debug\net6.0\C4PGGPO.exe
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\bin\Debug\net6.0\C4PGGPO.deps.json
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\bin\Debug\net6.0\C4PGGPO.runtimeconfig.json
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\bin\Debug\net6.0\C4PGGPO.dll
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\bin\Debug\net6.0\C4PGGPO.pdb
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\obj\Debug\net6.0\C4PGGPO.dll
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\obj\Debug\net6.0\refint\C4PGGPO.dll
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\obj\Debug\net6.0\C4PGGPO.pdb
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\obj\Debug\net6.0\C4PGGPO.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\My engine\C4PGGPO\obj\Debug\net6.0\ref\C4PGGPO.dll
